@@ -1,1 +1,18 @@
-{}
+{
+    "test": {
+        "projectName": "test",
+        "description": "jans",
+        "type": "community",
+        "author": "yurem",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/yurem/agama-test",
+        "githubUri": "https://github.com/yurem/agama-test",
+        "license": "apache-2.0",
+        "lastUpdated": "1761298663136",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
